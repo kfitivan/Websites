@@ -20,6 +20,8 @@ independent. The organization implements Socioeconomic development transformatio
 targeting households and working with WOMEN as
 household 'Change Agents' and YOUTH as Village
 Agents. </p>
+ 
+ <div className="mid-section">
       <h1>Our Vision</h1>
       <p>
        A prosperous Community.
@@ -27,7 +29,11 @@ Agents. </p>
 
       <h1>Our Mission</h1>
       <p>
-      Transforming communities through WOMEN  and YOUTH social economic empowerment.
+      Transforming communities through <strong>WOMEN  and YOUTH</strong>  social economic empowerment.
+      </p>
+      <h1>Our Aim</h1>
+      <p>
+      Empowering <strong>Women and Youth</strong> to drive Social economic transformation in Households and Communities.
       </p>
       <ul>
         <h1>KEY RESULT AREAS</h1>
@@ -43,6 +49,15 @@ Agents. </p>
         <li>Strategic partnerships </li>
         <li>Strengthening Market systems and structures </li>
       </ul>
+
+      <ul>
+        <h1>VALUES</h1>
+        <li>Equality </li>
+        <li>Transparency</li>
+        <li>Accountability </li>
+        <li>Commitment and Determination </li>
+      </ul>
+    </div>
     </div>
   );
 }

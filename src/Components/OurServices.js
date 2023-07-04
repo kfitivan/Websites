@@ -23,17 +23,17 @@ school until they graduate).
 households have been registered as beneficiaries on all the 14 OWO supported value chains for both
 food security and agribusiness. OWL however, flag-ships three value key chains; </p>
     
-    <ol>
-        <li> DIARY CATTLE with over 1,500 households supported to receive Government free Heifers, 216 of them
+    <ol className="services">
+        <li> <strong>DIARY CATTLE</strong> with over 1,500 households supported to receive Government free Heifers, 216 of them
 already constructed biogas-plants for value addition supported by Kanungu District LG, KDCL, SNV and HIVOS. In
 addition, 200 girls received goats with Support from KDCL and USAID FtF-CPM</li>
-        <img src='./assets/cows.PNG' alt='coffee'/>
+        <img src={require ("../assets/cows.PNG")}  alt='coffee'/>
 
-        <li> COFFEE with 12,000 profiled households, of which 6,000 have been directly supported by the USAID-ICAN Coffee Activity</li>
-        <img src='./assets/coffeepruning.PNG' alt='coffee'/>
+        <li> <strong>COFFEE</strong> with 12,000 profiled households, of which 6,000 have been directly supported by the USAID-ICAN Coffee Activity</li>
+        <img src={require ("../assets/coffeeprunning.PNG")}  alt='coffee'/>
 
-        <li> BEANS/SOY-BEAN with 6,000 profiled households, of which 2,000 have been directly supported by the USAID-ICAN Coffee Activity</li>
-        <img src= './assets/soya.PNG' alt='coffee'/>
+        <li> <strong>BEANS/SOY-BEAN</strong>  with 6,000 profiled households, of which 2,000 have been directly supported by the USAID-ICAN Coffee Activity</li>
+        <img src={require ("../assets/soya.PNG")}  alt='coffee'/>
 
     </ol>
   </div>

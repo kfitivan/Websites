@@ -1,9 +1,9 @@
 import Navbar from "../Components/Navbar";
 import Hero from "../Components/Hero";
-import AboutImg from "../assets/img6.jpg";
-import Trip from "../Components/Trip";
+import AboutImg from "../assets/about.jpg";
 import Footer from "../Components/Footer";
 import AboutUs from "../Components/AboutUs";
+import AboutTeam from "../Components/AboutTeam";
 
 function About() {
   return (
@@ -11,7 +11,7 @@ function About() {
       <Navbar />
       <Hero cName="hero-mid" heroImg={AboutImg} title="About" btnClass="hide" />
       <AboutUs />
-      <Trip />
+      <AboutTeam/>
       <Footer />
     </>
   );

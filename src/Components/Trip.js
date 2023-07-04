@@ -2,19 +2,18 @@ import "./Tripstyles.css";
 import TripData from "./TripData";
 import Bwindi from "../assets/tea.PNG";
 import Kanungu from "../assets/biogas.PNG";
-import Ishasha from "../assets/coffeeprunning.PNG";
 import coffee from "../assets/coffee.PNG";
 
 function Trip() {
   return (
     <div className="trip">
       <h1> OWO INSTITUTIONS </h1>
-      <p>Omukazi W’omutima Organization operates in 3institutions in one:</p>
+      <p>Omukazi W’omutima Organization operates 3 institutions in one:</p>
       <div className="tripcard">
         <TripData
           image={Bwindi}
           heading="Omukazi W’omutima Ltd(OWL) Reg. No: 80020000633805"
-          text="This is to offer technical Agri-business extension services, across agricultural value chains at community level. "
+          text="This Organization offers technical Agri-business extension services, across agricultural value chains at community level. "
         />
         <TripData
           image={Kanungu}

@@ -25,6 +25,10 @@
   .form-container button {
     display: block;
   }
+  .contact-detail{
+    margin-top: 15px;
+    text-align: center;
+  }
   
   @media screen and (max-width: 850px) {
     .form-container {
