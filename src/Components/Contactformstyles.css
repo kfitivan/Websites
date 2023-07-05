@@ -29,6 +29,12 @@
     margin-top: 15px;
     text-align: center;
   }
+
+  .success-message {
+    color: green;
+    margin-top: 1rem;
+  }
+  
   
   @media screen and (max-width: 850px) {
     .form-container {

@@ -1,5 +1,5 @@
 .footer {
-    padding: 4rem 6rem;
+    padding: 2rem 4rem;
     background-color: #000;
     color: #fff;
   }
@@ -13,14 +13,14 @@
   }
   .top i {
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-left: 1rem;
   }
   .top i:hoover {
     color: #01959a;
   }
   .bottom {
-    padding-top: 2rem;
+    padding-top: 1.5rem;
     text-align: start;
     display: flex;
     justify-content: space-between;
@@ -31,7 +31,7 @@
     flex-direction: column;
   }
   .bottom h4 {
-    font-size: 1.3rem;
+    font-size: 1rem;
     padding: 1rem 0 0.8rem 0;
   }
   .bottom a {

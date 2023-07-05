@@ -1,16 +1,38 @@
 import "./Contactformstyles.css";
+import React, { useRef, useState } from 'react';
+import emailjs from '@emailjs/browser';
 
 function ContactForm() {
+  const form = useRef();
+  const [isSent, setIsSent] = useState(false);
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_tdpmktp', 'template_5dj09rw', form.current, 'rNEWneEgbUcV9_h3s')
+      .then((result) => {
+        console.log(result.text);
+        setIsSent(true);
+        form.current.reset();
+      })
+      .catch((error) => {
+        console.log(error.text);
+      });
+  };
+
   return (
     <div className="form-container">
       <h1>Send a message to us!</h1>
-      <form>
-        <input placeholder="Name" />
-        <input placeholder="Email" />
-        <input placeholder="Subject" />
-        <textarea placeholder="Message" rows="4"></textarea>
-        <button>Send Message</button>
+      <form ref={form} onSubmit={sendEmail}>
+        <label>Name</label>
+        <input type="text" name="user_name" required />
+        <label>Email</label>
+        <input type="email" name="user_email" required />
+        <label>Message</label>
+        <textarea name="message" required />
+        <input type="submit" value="Send" />
       </form>
+      {isSent && <p className="success-message">Message sent successfully!</p>}
       <div className="contact-detail">
       <h2>Find Us</h2>
       <p>You can visit our Offices in <strong>Kirima Sub-County</strong> P.O.BOX 10 Kanungu</p>
@@ -21,3 +43,4 @@ function ContactForm() {
   );
 }
 export default ContactForm;
+

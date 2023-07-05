@@ -43,7 +43,13 @@ function Trip() {
           system.  "
         />
          {/* <TripData
-          image={Ishasha}
+          image={Bwindi}
+          heading="O’Wo-Model Farmer"
+          text=" Our farmers are trained on several ways on how to look after their coffee gardens. 
+          these include coffee prunning which involves the selective removal of a coffee plant, including branches, shoots, flowers and fruits.  "
+        />
+        <TripData
+          image={Bwindi}
           heading="O’Wo-Model Farmer"
           text=" Our farmers are trained on several ways on how to look after their coffee gardens. 
           these include coffee prunning which involves the selective removal of a coffee plant, including branches, shoots, flowers and fruits.  "
