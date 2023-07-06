@@ -32,9 +32,9 @@ function Footer() {
         <div>
           <h4>Projects</h4>
           <a href="/">Kanungu Model Farm</a>
+          <a href="https://ee.kobotoolbox.org/x/1Zr84jO7" target="_blank" rel="noopener noreferrer">Farmers Data Collect</a>
           <a href="/">Omukazi W'Omutima Sacco</a>
           <a href="/">Tranding License</a>
-          <a href="/">All Versions</a>
         </div>
         <div>
           <h4>Community</h4>

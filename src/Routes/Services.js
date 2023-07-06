@@ -1,7 +1,6 @@
 import Navbar from "../Components/Navbar";
 import Hero from "../Components/Hero";
 import ServiceImg from "../assets/services.jpg";
-import Trip from "../Components/Trip";
 import Footer from "../Components/Footer";
 import OurServices from "../Components/OurServices";
 import Owlproducts from "../Components/Owlproducts";
