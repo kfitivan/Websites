@@ -1,6 +1,6 @@
 import Navbar from "../Components/Navbar";
 import Hero from "../Components/Hero";
-import AboutImg from "../assets/about.jpg";
+import AboutImg from "../assets/img3 (2).JPG";
 import Footer from "../Components/Footer";
 import AboutUs from "../Components/AboutUs";
 import AboutTeam from "../Components/AboutTeam";

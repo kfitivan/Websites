@@ -5,6 +5,8 @@ import About from "./Routes/About"
 import Services from "./Routes/Services"
 import Contact from "./Routes/Contact"
 import "./style.css";
+import Gallery from "./Routes/Gallery";
+
 
 function App() {
   return (
@@ -14,6 +16,7 @@ function App() {
         <Route path="/about" element={<About />}/>
         <Route path="/services" element={<Services />}/>
         <Route path="/contact" element={<Contact />}/>
+        <Route path="/gallery" element={<Gallery/>}/>
       </Routes>
       
     </div>

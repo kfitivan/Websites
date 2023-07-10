@@ -23,6 +23,11 @@ export const menuitems = [
     cName: "nav-links"
   },
   {
+    title: "Gallery",
+    url: "/gallery",
+    cName: "nav-links"
+  },
+  {
     title: "Visit Our Shop",
     url: "https://eclone-ee9d6.firebaseapp.com/",
     cName: "nav-signup"

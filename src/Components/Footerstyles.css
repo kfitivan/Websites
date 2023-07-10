@@ -45,9 +45,15 @@
     .footer {
       padding: 4rem 2rem;
     }
-    .footer i {
+  
+    .top {
+      justify-content: space-around;
+    }
+  
+    .top i {
       margin: 1rem 1rem 0 0;
     }
+  
     .bottom div {
       width: 50%;
     }

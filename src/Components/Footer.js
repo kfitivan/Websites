@@ -23,7 +23,7 @@ function Footer() {
           <a href="https://www.youtube.com/channel/UCXCofBeG91hLc7RAIlRyDnQ" target="_blank" rel="noopener noreferrer">
             <YouTubeIcon />
           </a>
-          <a href="https://www.linkedin.com/in/consolata-tumwesigye" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/consolata-tumwesigye-a0a15b51/?originalSubdomain=ug" target="_blank" rel="noopener noreferrer">
             <LinkedInIcon />
           </a>
         </div>
@@ -41,7 +41,7 @@ function Footer() {
           <a href="https://www.facebook.com/consolata.tumwesigye.1/" target="_blank" rel="noopener noreferrer">Facebook</a>
           <a href="https://www.youtube.com/channel/UCXCofBeG91hLc7RAIlRyDnQ" target="_blank" rel="noopener noreferrer">Youtube</a>
           <a href="https://twitter.com/consolatat" target="_blank" rel="noopener noreferrer">Twitter</a>
-          <a href="https://www.linkedin.com/in/consolata-tumwesigye" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/consolata-tumwesigye-a0a15b51/?originalSubdomain=ug" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         </div>
         <div>
           <h4>Help</h4>
