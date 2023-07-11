@@ -39,6 +39,24 @@ function Owlproducts() {
           text=" These are some of the Omukazi W'Omutima products that include coffee and diary products "
         />
       </div>
+      <div className="our-partners">
+      <h1>Our Partners</h1>
+
+      <a href="https://ugandacoffee.go.ug/" target="_blank" rel="noopener noreferrer">
+      <img src={require ("../assets/UCDA.PNG")}  alt='coffee'/>
+      </a>
+      
+      <a href="https://kanungu.go.ug/" target="_blank" rel="noopener noreferrer">
+      <img src={require ("../assets/MAAF.PNG")}  alt='coffee'/>
+      </a>
+
+      <a href="https://chemonics.com/" target="_blank" rel="noopener noreferrer">
+      <img src={require ("../assets/bukoola.PNG")}  alt='coffee'/>
+      </a>
+      <a href="https://www.biogassolutions.co.ug/" target="_blank" rel="noopener noreferrer">
+      <img src={require ("../assets/biogaslogo.PNG")}  alt='coffee'/>
+      </a>
+     </div>
     </div>
   )
 }

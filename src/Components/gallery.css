@@ -50,3 +50,12 @@
     object-fit: cover;
   }
   
+  .our-partners{
+    margin-top: 30px;
+    margin-left: 40px;
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+  }

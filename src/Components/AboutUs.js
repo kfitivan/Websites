@@ -4,22 +4,16 @@ function AboutUs() {
   return (
     <div className="about-container">
       <h1>About OWL</h1>
-      <p>Omukazi W’omutima is a Runyakitara phrase
-meaning a “Capable Woman/ Virtuous woman” as
-described in the Bible (Proverbs: 30;10-31).
-Omukazi W’omutima Organisation (OWO) is an
-affirmative Women/Youth-led Agribusiness Social
-Enterprise Farmer Organization based in Kanungu,
-with branches in Kisoro, Rukungiri, Kabale, Mitoma
-Districts and scaling up Country-wide. The
-organization started in 2015, initiated by Kinkizi
-Development Company Ltd (KDCL), as one of the
-Tea Sector’s social Cooperate Responsibility
-initiatives, 5 years later OW was left to be
-independent. The organization implements Socioeconomic development transformation models,
-targeting households and working with WOMEN as
-household 'Change Agents' and YOUTH as Village
-Agents. </p>
+      <p>Omukazi W’omutima Ltd is a private limited liability company established in Uganda in June 2015 and formally registered/incorporated on the 29th January 2018. The company started as a community based social entrepreneurship 
+        organization in the early 2000’s supporting households especially women farmers with development programs aimed at enhancing agricultural productivity and production to increase household income to contribute to poverty alleviation. 
+        During the early days of company formation, 
+        OWL partnered with Kinkizi Development Company Limited (KDC) and Kanungu District Local government (KDLG) to support communities with livelihood interventions in agri-business, health and access to markets. 
+        The company has been involved in the purchase of both raw and processed coffee from farmers and already graded coffee from secondary processing plants for roasting, packaging and distribution. 
+         </p>
+
+         <p> The company has been involved in the coffee value chain through supporting over 12,000 farmers in Kigezi sub region with coffee agronomy and good agronomic practices, post-harvest handling facilities, bulking to enhance increase production and farm productivity especially in the districts of Kanungu,
+           Rukungiri and Kisoro. Other milestones achieved by the company include the establishment of 75 acres of organic specialty coffee farm in Rugyeyo sub county, Kanungu district the company to become financially sustainable while ensuring supply of quality specialty coffee. 
+          The farm boosts of 37,500 trees of coffee producing 112,500 kgs of coffee per season. The company is investing in acquisition of modern coffee processing facilities/equipment and online Traceability for coffee farmers in the region. </p>
  
  <div className="mid-section">
       <h1>Our Vision</h1>

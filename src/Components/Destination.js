@@ -7,6 +7,8 @@ import Mtn3 from "../assets/coffeeprunning.PNG";
 
 function Destination() {
   return (
+
+    <>
     <div className="destination">
       <h1>Omukazi W'Omutima Limited</h1>
       <h5>Our Slogan</h5>
@@ -40,7 +42,12 @@ function Destination() {
         img1={Mtn3}
         img2={Mtn4}
       />
-    </div>
+      </div>
+      <div className="production">
+      <img src={require ("../assets/pic1.PNG")}  alt='coffee'/>
+      <img src={require ("../assets/pic2.PNG")}  alt='coffee'/>
+      </div>
+    </>
   );
 }
 export default Destination;

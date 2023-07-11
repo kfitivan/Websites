@@ -36,12 +36,12 @@ addition, 200 girls received goats with Support from KDCL and USAID FtF-CPM</li>
         <img src={require ("../assets/img4 (2).JPG")}  alt='coffee'/>
 
 
+        <li> <strong>COFFEE NURSERY BEDS</strong>  with 6,000 profiled households, of which 3,000 have been directly supported by the USAID-ICAN in coffee nursery beds activity</li>
+        <img src={require ("../assets/teabed.PNG")}  alt='coffee'/>
+
         <li> <strong>BEANS/SOY-BEAN</strong>  with 6,000 profiled households, of which 2,000 have been directly supported by the USAID-ICAN Soya-bean planting Activity</li>
         <img src={require ("../assets/soya.PNG")}  alt='coffee'/>
 
-        
-        <li> <strong>TEA NURSERY BEDS</strong>  with 6,000 profiled households, of which 3,000 have been directly supported by the USAID-ICAN in tea planting Activity</li>
-        <img src={require ("../assets/teabed.PNG")}  alt='coffee'/>
 
     </ol>
   </div>

@@ -35,6 +35,15 @@
     margin-top: 1rem;
   }
   
+  .our-partners{
+    margin-top: 30px;
+    margin-left: 40px;
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+  }
   
   @media screen and (max-width: 850px) {
     .form-container {
